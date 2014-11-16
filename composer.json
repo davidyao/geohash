@@ -1,0 +1,14 @@
+{
+    "name": "davidyao/geohash",
+    "type": "library",
+    "description": "geohash",    
+    "keywords": [],
+    "homepage": "",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.2"        
+    },
+    "autoload": {
+        "psr-0": { "": "" }
+    }    
+}
